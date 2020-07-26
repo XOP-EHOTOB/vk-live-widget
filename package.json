@@ -1,7 +1,7 @@
 {
   "name": "vk-live-widget",
   "version": "1.0.2",
-  "description": "",
+  "description": "VK Live Widget",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,20 @@
   "license": "MIT",
   "dependencies": {
     "prequest": "^1.0.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/XOP-EHOTOB/vk-live-widget/issues"
+  },
+  "homepage": "https://github.com/XOP-EHOTOB/vk-live-widget#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XOP-EHOTOB/vk-live-widget.git"
+  },
+  "keywords": [
+    "VK Widget",
+    "Live Widget",
+    "Виджет вк",
+    "Живой виджет",
+    "vk live widget"
+  ]
 }
